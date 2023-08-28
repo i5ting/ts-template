@@ -16,7 +16,8 @@
 ## Using this repository
 
 - clone the repository or click in "Use this template" button.
-- Go to `lib/package.json` and edit the `name`, `description` and `author` fields.
+- copy `packages/lib` to `packages/yourlib`
+ and edit the `name`, `description` and `author` fields.
 
 ## Folder structure
 
