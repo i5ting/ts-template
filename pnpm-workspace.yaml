@@ -1,5 +1,4 @@
 packages:
-  - 'lib'
   - 'docs'
   - 'example'
-  - packages/*
+  - 'packages/*'

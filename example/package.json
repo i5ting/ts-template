@@ -17,7 +17,7 @@
     "vite": "^4.4.9"
   },
   "dependencies": {
-    "lib": "workspace:*",
+    "lib2": "workspace:*",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }

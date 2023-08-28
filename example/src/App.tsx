@@ -1,4 +1,4 @@
-import { lib } from 'lib';
+import { lib } from 'lib2';
 import React from 'react';
 
 const Main = () => {
