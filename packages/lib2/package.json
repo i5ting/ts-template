@@ -17,7 +17,7 @@
     "build": "tsup src -- --dts-resolve",
     "build:fast": "tsup src",
     "dev": "tsup src --watch",
-    "test": "vitest",
+    "test": "vitest run",
     "test:watch": "vitest watch",
     "coverage": "vitest run --coverage"
   },
