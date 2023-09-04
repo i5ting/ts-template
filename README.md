@@ -1,6 +1,6 @@
 # pnpm-monorepo
 
-> A PNPM monorepo template for my personal projects.
+> A PNPM monorepo template for personal projects.
 
 ## What is in this repository?
 
