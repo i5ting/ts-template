@@ -28,6 +28,7 @@
     "@typescript-eslint/eslint-plugin": "^5.62.0",
     "@typescript-eslint/parser": "^5.62.0",
     "commitlint": "^17.7.1",
+    "concurrently": "^8.2.1",
     "eslint": "^8.47.0",
     "eslint-config-prettier": "^8.10.0",
     "eslint-import-resolver-typescript": "^3.6.0",
@@ -41,6 +42,7 @@
     "prettier": "^2.8.8",
     "size-limit": "^8.2.6",
     "tsup": "^7.2.0",
+    "tsx": "^3.12.10",
     "typescript": "^4.9.5",
     "vite": "^4.4.9",
     "vitest": "^0.32.4"
