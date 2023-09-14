@@ -5,13 +5,12 @@
   "main": "index.js",
   "private": true,
   "scripts": {
-    "dev": "vite",
+    "dev": "tsx watch src/app.ts",
     "build": "vite build",
     "preview": "vite preview"
   },
   "devDependencies": {
-    "@types/react": "^18.2.21",
-    "@types/react-dom": "^18.2.7",
+    "@types/koa": "^2.13.9",
     "@vitejs/plugin-react": "^4.0.4",
     "koa": "^2.14.2",
     "nodemon": "^3.0.1",

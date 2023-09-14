@@ -6,6 +6,7 @@
 
 - [PNPM](https://pnpm.io/workspaces) as workspace manager and package manager.
 - [TSUP](https://tsup.egoist.dev/) as a TypeScript universal package.
+- [Tsx](https://github.com/esbuild-kit/tsx) as a Node.js enhanced with esbuild to run TypeScript & ESM
 - [Vitest](https://vitest.dev/) as a test runner.
 - [Size Limit](https://github.com/ai/size-limit) as a size limit plugin.
 - [Prettier](https://prettier.io/) as a code formatter.
